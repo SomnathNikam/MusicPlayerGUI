@@ -1,5 +1,5 @@
 # MusicPlayerGUI
-Created a Music Player GUI in Python.This is a Python Tkinter GUI Application that ask the user about the user directory where the song is present and then playIt.The Music Player GUI contain four buttons Play,Stop,Pause,UnPause.The working is very simple as easy.
+Created a Music Player GUI in Python.This is a Python Tkinter GUI Application that ask the user about the user directory where the song is present and then PlayIt.The Music Player GUI contain four buttons Play,Stop,Pause,UnPause.The working is very simple as easy.
 
 # Screenshot
 <hr>
